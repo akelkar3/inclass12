@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inclass10</string>
+    <string name="editTextEmail1">Email</string>
+    <string name="editTextEmail2">Email</string>
+    <string name="editTextPass">Choose Password</string>
+    <string name="editTextPass2">Password</string>
+    <string name="editTextPass1">Repeat Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonSignup">Sign Up</string>
+
+    <string name="editTextFName">First Name</string>
+    <string name="editTextLName">Last Name</string>
+
+    <string name="buttonCancel">Cancel</string>
+    <string name="defaultThreadMessage">Thread message1</string>
+
+</resources>
